@@ -75,5 +75,16 @@
         "greedVersion": "1.6.0",
         "dependencies": [],
         "conflicts": []
+    },
+    {
+        "name": "Gauss Mod 1.1",
+        "author": "MadPhoenix",
+        "url": "https://github.com/VoltCruelerz/Gauss-Mod-1.1",
+        "description": "Expands the effects of Gauss research to everything using Gauss weapons.",
+        "version": "1.1.1",
+        "sinsVersion": "1.15.1.0",
+        "greedVersion": "1.6.0",
+        "dependencies": [],
+        "conflicts": []
     }
 ]
