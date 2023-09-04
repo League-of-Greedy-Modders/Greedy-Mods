@@ -86,5 +86,27 @@
         "greedVersion": "1.6.0",
         "dependencies": [],
         "conflicts": []
+    },
+    {
+        "name": "Autocannon Weapon Rework",
+        "author": "Shrimple",
+        "url": "https://discord.com/channels/266693357093257216/1148111727569936476",
+        "description": "This is a graphical mod that updates the particle effects for Light Autocannons, Medium Autocannons, and PD Autocannons to be more visible at any distance, a lot brighter, and unique in size.",
+        "version": "1.2.0",
+        "sinsVersion": "1.15.1.0",
+        "greedVersion": "1.5.0",
+        "dependencies": [],
+        "conflicts": []
+    },
+    {
+        "name": "Gauss Weapon Rework",
+        "author": "Shrimple",
+        "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
+        "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
+        "version": "1.2.0",
+        "sinsVersion": "1.15.1.0",
+        "greedVersion": "1.5.0",
+        "dependencies": [],
+        "conflicts": []
     }
 ]
