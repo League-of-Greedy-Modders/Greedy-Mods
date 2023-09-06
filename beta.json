@@ -1,0 +1,23 @@
+{
+    "latestGreed": "1.7.0",
+    "mods": [
+        {
+            "id": "planet-loyalty",
+            "name": "Planet Loyalty",
+            "author": "Visual39 & Volt Cruelerz",
+            "description": "Planets now have a Loyalty bar instead of a Health bar.",
+            "url": "https://github.com/VoltCruelerz/planet-loyalty",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
+        }
+    ]
+}
