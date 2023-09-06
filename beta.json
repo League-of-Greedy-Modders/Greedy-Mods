@@ -23,8 +23,8 @@
             "id": "dependency",
             "name": "Dependency",
             "author": "TEST",
-            "description": "",
-            "url": "",
+            "description": "Parent of the chain",
+            "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.1.1": {
                     "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
@@ -41,8 +41,31 @@
             "id": "dependent",
             "name": "Dependent",
             "author": "TEST",
-            "description": "",
-            "url": "",
+            "description": "Child of the chain",
+            "url": "https://github.com/VoltCruelerz",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [
+                        {
+                            "id": "dependency",
+                            "version": "1.1.1"
+                        }
+                    ],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
+        },
+        {
+            "id": "grandependent",
+            "name": "Grandependent",
+            "author": "TEST",
+            "description": "Grandchild of the chain",
+            "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.1.1": {
                     "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
