@@ -6,7 +6,9 @@
             "name": "Constituent Components",
             "author": "Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/constituent-components",
-            "downloadUrl": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.3.0.zip",
+            "downloads": {
+                "1.3.0": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.3.0.zip"
+            },
             "description": "Improves the roster of ship components.",
             "version": "1.3.0",
             "sinsVersion": "1.15.1.0",
@@ -20,7 +22,9 @@
             "name": "Greedy Gauss Mod",
             "author": "MadPhoenix -> Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/Gauss-Mod-1.1",
-            "downloadUrl": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip",
+            "downloads": {
+                "1.1.1": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip"
+            },
             "description": "Expands the effects of Gauss research to everything using Gauss weapons.",
             "version": "1.1.1",
             "sinsVersion": "1.15.1.0",
@@ -34,9 +38,11 @@
             "name": "Kol Options",
             "author": "Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/kol-options",
-            "downloadUrl": "https://github.com/VoltCruelerz/kol-options/archive/refs/tags/1.2.1.zip",
+            "downloads": {
+                "1.2.1": "https://github.com/VoltCruelerz/kol-options/archive/refs/tags/1.2.1.zip"
+            },
             "description": "Fusillade and Adaptive Force Field are no longer terrible.",
-            "version": "1.1.1",
+            "version": "1.2.1",
             "sinsVersion": "1.15.1.0",
             "greedVersion": "1.6.0",
             "dependencies": [],
@@ -48,9 +54,11 @@
             "name": "Krosov Nukes & Prova PD",
             "author": "Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/krosov-prova-guns",
-            "downloadUrl": "https://github.com/VoltCruelerz/krosov-prova-guns/archive/refs/tags/1.4.1.zip",
+            "downloads": {
+                "1.4.1": "https://github.com/VoltCruelerz/krosov-prova-guns/archive/refs/tags/1.4.1.zip"
+            },
             "description": "Adds S2S missiles to Krosov and a PD gun to Prova.",
-            "version": "1.1.1",
+            "version": "1.4.1",
             "sinsVersion": "1.15.1.0",
             "greedVersion": "1.6.0",
             "dependencies": [],
@@ -62,9 +70,11 @@
             "name": "Point Defense Strings",
             "author": "Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/pd-strings",
-            "downloadUrl": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip",
+            "downloads": {
+                "1.4.1": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip"
+            },
             "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
-            "version": "1.1.1",
+            "version": "1.4.1",
             "sinsVersion": "1.15.1.0",
             "greedVersion": "1.6.0",
             "dependencies": [],
@@ -76,7 +86,9 @@
             "name": "Planet Loyalty",
             "author": "Visual39 & Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/planet-loyalty",
-            "downloadUrl": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+            "downloads": {
+                "1.1.1": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip"
+            },
             "description": "Planets now have a Loyalty bar instead of a Health bar.",
             "version": "1.1.1",
             "sinsVersion": "1.15.1.0",
@@ -90,7 +102,9 @@
             "name": "Useful Units",
             "author": "Volt Cruelerz",
             "url": "https://github.com/VoltCruelerz/useful-units",
-            "downloadUrl": "https://github.com/VoltCruelerz/useful-units/archive/refs/tags/1.1.0.zip",
+            "downloads": {
+                "1.1.0": "https://github.com/VoltCruelerz/useful-units/archive/refs/tags/1.1.0.zip"
+            },
             "description": "Improves the roster of ships.",
             "version": "1.1.0",
             "sinsVersion": "1.15.1.0",
