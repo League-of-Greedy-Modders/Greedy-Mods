@@ -27,7 +27,7 @@
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.1.1": {
-                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.6.0",
                     "dependencies": [],
@@ -45,7 +45,7 @@
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.1.1": {
-                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.6.0",
                     "dependencies": [
@@ -68,7 +68,7 @@
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.1.1": {
-                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.6.0",
                     "dependencies": [
