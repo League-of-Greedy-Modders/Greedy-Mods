@@ -18,6 +18,47 @@
                 }
             },
             "latest": "1.1.1"
+        },
+        {
+            "id": "dependency",
+            "name": "Dependency",
+            "author": "TEST",
+            "description": "",
+            "url": "",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
+        },
+        {
+            "id": "dependent",
+            "name": "Dependent",
+            "author": "TEST",
+            "description": "",
+            "url": "",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [
+                        {
+                            "id": "dependency",
+                            "version": "1.1.1"
+                        }
+                    ],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
         }
     ]
 }
