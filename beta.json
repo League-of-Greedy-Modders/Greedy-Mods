@@ -29,7 +29,7 @@
                 "1.1.1": {
                     "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.6.0",
+                    "greedVersion": "1.7.0",
                     "dependencies": [],
                     "conflicts": [],
                     "date": "09/04/2023"
@@ -47,7 +47,7 @@
                 "1.1.1": {
                     "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.6.0",
+                    "greedVersion": "1.7.0",
                     "dependencies": [
                         {
                             "id": "dependency",
@@ -70,7 +70,7 @@
                 "1.1.1": {
                     "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
                     "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.6.0",
+                    "greedVersion": "1.7.0",
                     "dependencies": [
                         {
                             "id": "dependency",

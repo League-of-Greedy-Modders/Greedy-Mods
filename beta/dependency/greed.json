@@ -1,0 +1,11 @@
+{
+    "name": "Dependency Testing",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/greed-dependency-test",
+    "description": "The parent of the chain.",
+    "version": "1.0.0",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.7.0",
+    "dependencies": [],
+    "conflicts": []
+}
