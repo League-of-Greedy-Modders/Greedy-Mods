@@ -1,5 +1,5 @@
 {
-    "name": "Grandependent Testing",
+    "name": "C Grandependent Testing",
     "author": "Volt Cruelerz",
     "url": "https://github.com/VoltCruelerz/greed-dependency-test",
     "description": "The grandchild of the chain.",
@@ -8,7 +8,7 @@
     "greedVersion": "1.7.0",
     "dependencies": [
         {
-            "id": "dependency",
+            "id": "dependent",
             "version": "1.0.0"
         }
     ],

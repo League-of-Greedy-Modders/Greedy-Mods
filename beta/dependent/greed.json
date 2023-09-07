@@ -1,5 +1,5 @@
 {
-    "name": "Dependent Testing",
+    "name": "B Dependent Testing",
     "author": "Volt Cruelerz",
     "url": "https://github.com/VoltCruelerz/greed-dependency-test",
     "description": "The child of the chain.",
@@ -8,7 +8,7 @@
     "greedVersion": "1.7.0",
     "dependencies": [
         {
-            "id": "dependent",
+            "id": "dependency",
             "version": "1.0.0"
         }
     ],

@@ -21,7 +21,7 @@
         },
         {
             "id": "dependency",
-            "name": "Dependency",
+            "name": "A Dependency",
             "author": "TEST",
             "description": "Parent of the chain",
             "url": "https://github.com/VoltCruelerz",
@@ -39,7 +39,7 @@
         },
         {
             "id": "dependent",
-            "name": "Dependent",
+            "name": "B Dependent",
             "author": "TEST",
             "description": "Child of the chain",
             "url": "https://github.com/VoltCruelerz",
@@ -62,7 +62,7 @@
         },
         {
             "id": "grandependent",
-            "name": "Grandependent",
+            "name": "C Grandependent",
             "author": "TEST",
             "description": "Grandchild of the chain",
             "url": "https://github.com/VoltCruelerz",
@@ -73,7 +73,7 @@
                     "greedVersion": "1.7.0",
                     "dependencies": [
                         {
-                            "id": "dependency",
+                            "id": "grandependent",
                             "version": "1.0.0"
                         }
                     ],
