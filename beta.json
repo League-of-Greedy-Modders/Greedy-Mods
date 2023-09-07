@@ -20,14 +20,14 @@
             "latest": "1.1.1"
         },
         {
-            "id": "dependency",
+            "id": "a_dependency",
             "name": "A Dependency",
             "author": "TEST",
             "description": "Parent of the chain",
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/a_dependency.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.7.0",
                     "dependencies": [],
@@ -38,19 +38,19 @@
             "latest": "1.0.0"
         },
         {
-            "id": "dependent",
+            "id": "b_dependent",
             "name": "B Dependent",
             "author": "TEST",
             "description": "Child of the chain",
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/b_dependent.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.7.0",
                     "dependencies": [
                         {
-                            "id": "dependency",
+                            "id": "a_dependency",
                             "version": "1.0.0"
                         }
                     ],
@@ -61,19 +61,19 @@
             "latest": "1.0.0"
         },
         {
-            "id": "grandependent",
+            "id": "c_grandependent",
             "name": "C Grandependent",
             "author": "TEST",
             "description": "Grandchild of the chain",
             "url": "https://github.com/VoltCruelerz",
             "versions": {
                 "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/dependency.zip",
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/c_grandependent.zip",
                     "sinsVersion": "1.15.1.0",
                     "greedVersion": "1.7.0",
                     "dependencies": [
                         {
-                            "id": "grandependent",
+                            "id": "b_dependent",
                             "version": "1.0.0"
                         }
                     ],
