@@ -1,0 +1,166 @@
+{
+    "latestSins": "1.15.1",
+    "latestGreed": "1.6.0",
+    "mods": [
+        {
+            "id": "constituent-components",
+            "name": "Constituent Components",
+            "author": "Volt Cruelerz",
+            "description": "Improves the roster of ship components.",
+            "url": "https://github.com/VoltCruelerz/constituent-components",
+            "versions": {
+                "1.3.0": {
+                    "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.3.0.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.3.0"
+        },
+        {
+            "id": "Gauss Mod 1.1",
+            "name": "Greedy Gauss Mod",
+            "author": "MadPhoenix -> Volt Cruelerz",
+            "description": "Expands the effects of Gauss research to everything using Gauss weapons.",
+            "url": "https://github.com/VoltCruelerz/Gauss-Mod-1.1",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
+        },
+        {
+            "id": "kol-options",
+            "name": "Kol Options",
+            "author": "Volt Cruelerz",
+            "description": "Fusillade and Adaptive Force Field are no longer terrible.",
+            "url": "https://github.com/VoltCruelerz/kol-options",
+            "versions": {
+                "1.2.1": {
+                    "download": "https://github.com/VoltCruelerz/kol-options/archive/refs/tags/1.2.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.2.1"
+        },
+        {
+            "id": "krosov-prova-guns",
+            "name": "Krosov Nukes & Prova PD",
+            "author": "Volt Cruelerz",
+            "description": "Adds S2S missiles to Krosov and a PD gun to Prova.",
+            "url": "https://github.com/VoltCruelerz/krosov-prova-guns",
+            "versions": {
+                "1.4.1": {
+                    "download": "https://github.com/VoltCruelerz/krosov-prova-guns/archive/refs/tags/1.4.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.4.1"
+        },
+        {
+            "id": "pd-strings",
+            "name": "Point Defense Strings",
+            "author": "Volt Cruelerz",
+            "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
+            "url": "https://github.com/VoltCruelerz/pd-strings",
+            "versions": {
+                "1.4.1": {
+                    "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.4.1"
+        },
+        {
+            "id": "planet-loyalty",
+            "name": "Planet Loyalty",
+            "author": "Visual39 & Volt Cruelerz",
+            "description": "Planets now have a Loyalty bar instead of a Health bar.",
+            "url": "https://github.com/VoltCruelerz/planet-loyalty",
+            "versions": {
+                "1.1.1": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.1"
+        },
+        {
+            "id": "useful-units",
+            "name": "Useful Units",
+            "author": "Volt Cruelerz",
+            "description": "Improves the roster of ships.",
+            "url": "https://github.com/VoltCruelerz/useful-units",
+            "versions": {
+                "1.1.0": {
+                    "download": "https://github.com/VoltCruelerz/useful-units/archive/refs/tags/1.1.0.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.6.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.1.0"
+        },
+        {
+            "id": "Autocannon Weapon Rework",
+            "name": "Autocannon Weapon Rework",
+            "author": "Shrimple",
+            "description": "This is a graphical mod that updates the particle effects for Light Autocannons, Medium Autocannons, and PD Autocannons to be more visible at any distance, a lot brighter, and unique in size.",
+            "url": "https://discord.com/channels/266693357093257216/1148111727569936476",
+            "versions": {
+                "1.2.0": {
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.5.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.2.0"
+        },
+        {
+            "id": "Gauss Weapon Rework",
+            "name": "Gauss Weapon Rework",
+            "author": "Shrimple",
+            "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
+            "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
+            "versions": {
+                "1.2.0": {
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.5.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.2.0"
+        }
+    ]
+}
