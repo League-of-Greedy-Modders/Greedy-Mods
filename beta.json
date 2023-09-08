@@ -33,6 +33,22 @@
                     "dependencies": [],
                     "conflicts": [],
                     "date": "09/04/2023"
+                },
+                "1.0.0": {
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.7.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                },
+                "0.9.9": {
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.7.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
                 }
             },
             "latest": "1.0.1"
