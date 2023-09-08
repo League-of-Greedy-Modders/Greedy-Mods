@@ -100,6 +100,15 @@
                 }
             },
             "latest": "1.0.0"
+        },
+        {
+            "id": "Gauss Weapon Rework",
+            "name": "Gauss Weapon Rework",
+            "author": "Shrimple",
+            "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
+            "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
+            "versions": {},
+            "latest": "1.0.0"
         }
     ]
 }
