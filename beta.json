@@ -20,6 +20,24 @@
             "latest": "1.1.1"
         },
         {
+            "id": "endless_upgrade",
+            "name": "Endless Upgrade Test",
+            "author": "TEST",
+            "description": "Install is lower version than catalog",
+            "url": "https://github.com/VoltCruelerz",
+            "versions": {
+                "1.0.1": {
+                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.7.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                }
+            },
+            "latest": "1.0.1"
+        },
+        {
             "id": "a_dependency",
             "name": "A Dependency",
             "author": "TEST",

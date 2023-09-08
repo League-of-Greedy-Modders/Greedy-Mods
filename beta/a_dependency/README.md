@@ -1,3 +1,3 @@
-# Greed Conflict Test
+# Greed Dependency Test
 
-This mod is just for conflict testing.
+This mod is just for dependency testing.

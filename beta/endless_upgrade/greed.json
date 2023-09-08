@@ -1,0 +1,11 @@
+{
+    "name": "Upgrade Test",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/greed-upgrade-test",
+    "description": "This version is eternally behind the catalog.",
+    "version": "1.0.0",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.7.0",
+    "dependencies": [],
+    "conflicts": []
+}
