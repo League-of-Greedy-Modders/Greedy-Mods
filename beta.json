@@ -107,7 +107,15 @@
             "author": "Shrimple",
             "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
             "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
-            "versions": {},
+            "versions": {
+                "1.0.0": {
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.7.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/03/2023"
+                }
+            },
             "latest": "1.0.0"
         }
     ]
