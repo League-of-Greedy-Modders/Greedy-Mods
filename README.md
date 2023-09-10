@@ -11,8 +11,8 @@ To contribute, merely open a pull request for the repo to change `catalogs/<sche
 | Field | Type | Description |
 |:------|:-----|:------------|
 | `id`* | `string` | This name of the folder your mod will occupy once installed in the `mods` folder. |
-| `name`* | `string` | The human-readable |
-| `author`* | `string` | Who you are |
+| `name`* | `string` | The human-readable name of the mod. |
+| `author`* | `string` | Your name/username. |
 | `description`* | `string` | A brief summary of your mod. Save details for the readme. |
 | `url`* | `url` | The URL to your thread or repo where you give greater details about your mod. Details beyond what is covered in the description should be covered here. |
 | `versions`* | `dictionary<version,versionDetails>` | A dictionary mapping versions of your mod to version detail objects. |
