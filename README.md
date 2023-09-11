@@ -2,7 +2,27 @@
 
 The existing list of [greedy](https://github.com/VoltCruelerz/Greed) mods available for download.
 
-To contribute, merely open a pull request for the repo to change `catalogs/<schemaVersion>.json`.
+## Contributing
+
+### Local Testing
+
+For your own local testing, you can manually override the channel in Greed's `App.config` with a url leading to your own channel. It should look something like...
+
+```xml
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="modDir" value=""/>
+    <add key="sinsDir" value=""/>
+    <add key="downDir" value=""/>
+    <add key="channel" value="https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/catalogs/1.0.0_alpha.json"/>
+  </appSettings>
+</configuration>
+```
+
+### Merging Your Changes
+
+All you need to do is merely open a pull request for the repo to change `catalogs/<schemaVersion>_beta.json` and/or `catalogs/<schemaVersion>.json`. If everything looks good, your changes will be pushed to the live channel.
 
 ## Schema
 
