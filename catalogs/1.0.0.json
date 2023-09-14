@@ -1,6 +1,6 @@
 {
     "latestSins": "1.15.1",
-    "latestGreed": "1.7.4",
+    "latestGreed": "1.8.0",
     "mods": [
         {
             "id": "constituent-components",
@@ -176,6 +176,14 @@
                     "dependencies": [],
                     "conflicts": [],
                     "date": "09/13/2023"
+                },
+                "1.0.0": {
+                    "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.0.0.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.7.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/10/2023"
                 }
             },
             "latest": "1.1.0"
