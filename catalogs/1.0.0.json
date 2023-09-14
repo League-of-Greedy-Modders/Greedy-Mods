@@ -1,6 +1,6 @@
 {
     "latestSins": "1.15.1",
-    "latestGreed": "1.7.3",
+    "latestGreed": "1.7.4",
     "mods": [
         {
             "id": "constituent-components",
@@ -169,16 +169,16 @@
             "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
             "url": "https://github.com/VoltCruelerz/on-death-explosions",
             "versions": {
-                "1.0.0": {
-                    "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.0.0.zip",
+                "1.1.0": {
+                    "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.1.0.zip",
                     "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.1",
+                    "greedVersion": "1.7.0",
                     "dependencies": [],
                     "conflicts": [],
-                    "date": "09/10/2023"
+                    "date": "09/13/2023"
                 }
             },
-            "latest": "1.0.0"
+            "latest": "1.1.0"
         }
     ]
 }
