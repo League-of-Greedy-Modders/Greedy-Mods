@@ -39,6 +39,24 @@
             "latest": "1.1.1"
         },
         {
+            "id": "better-ai",
+            "name": "Better AI",
+            "author": "Volt Cruelerz",
+            "description": "Improves the AI targeting heuristics. Do not use this mod with balance mods. Targeting heuristic optimizations are _extremely_ build-specific.",
+            "url": "https://github.com/VoltCruelerz/constituent-components",
+            "versions": {
+                "1.0.0": {
+                    "download": "https://github.com/VoltCruelerz/better-ai/archive/refs/tags/1.0.0.zip",
+                    "sinsVersion": "1.15.1.0",
+                    "greedVersion": "1.8.1",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/17/2023"
+                }
+            },
+            "latest": "1.0.0"
+        },
+        {
             "id": "kol-options",
             "name": "Kol Options",
             "author": "Volt Cruelerz",
