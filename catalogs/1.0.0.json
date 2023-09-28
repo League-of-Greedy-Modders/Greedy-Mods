@@ -1,6 +1,6 @@
 {
-    "latestSins": "1.15.1",
-    "latestGreed": "1.8.1",
+    "latestSins": "1.16.10",
+    "latestGreed": "2.0.0",
     "mods": [
         {
             "id": "constituent-components",
@@ -29,12 +29,20 @@
             "latest": "1.4.0"
         },
         {
-            "id": "Gauss Mod 1.1",
-            "name": "Greedy Gauss Mod",
-            "author": "MadPhoenix -> Volt Cruelerz",
+            "id": "Gauss Research",
+            "name": "Gauss Research",
+            "author": "Volt Cruelerz",
             "description": "Expands the effects of Gauss research to everything using Gauss weapons.",
             "url": "https://github.com/VoltCruelerz/Gauss-Mod-1.1",
             "versions": {
+                "1.2.0": {
+                    "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.2.0.zip",
+                    "sinsVersion": "1.16.7.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/22/2023"
+                },
                 "1.1.1": {
                     "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip",
                     "sinsVersion": "1.15.1.0",
@@ -44,7 +52,7 @@
                     "date": "09/04/2023"
                 }
             },
-            "latest": "1.1.1"
+            "latest": "1.2.0"
         },
         {
             "id": "better-ai",
@@ -107,6 +115,14 @@
             "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
             "url": "https://github.com/VoltCruelerz/pd-strings",
             "versions": {
+                "2.0.0": {
+                    "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.0.0.zip",
+                    "sinsVersion": "1.16.7.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/22/2023"
+                },
                 "1.4.1": {
                     "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip",
                     "sinsVersion": "1.15.1.0",
@@ -116,7 +132,7 @@
                     "date": "09/04/2023"
                 }
             },
-            "latest": "1.4.1"
+            "latest": "2.0.0"
         },
         {
             "id": "planet-loyalty",
@@ -125,6 +141,14 @@
             "description": "Planets now have a Loyalty bar instead of a Health bar.",
             "url": "https://github.com/VoltCruelerz/planet-loyalty",
             "versions": {
+                "2.0.0": {
+                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/2.0.0.zip",
+                    "sinsVersion": "1.16.7.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/04/2023"
+                },
                 "1.1.1": {
                     "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
                     "sinsVersion": "1.15.1.0",
@@ -134,7 +158,7 @@
                     "date": "09/04/2023"
                 }
             },
-            "latest": "1.1.1"
+            "latest": "2.0.0"
         },
         {
             "id": "useful-units",
