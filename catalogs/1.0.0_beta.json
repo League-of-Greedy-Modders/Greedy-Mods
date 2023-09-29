@@ -1,5 +1,5 @@
 {
-    "latestSins": "1.16.7",
+    "latestSins": "1.16.10",
     "latestGreed": "2.0.0",
     "mods": [
         {
@@ -229,6 +229,24 @@
                 }
             },
             "latest": "1.1.0"
+        },
+        {
+            "id": "RGB Themes - Vasari RED",
+            "name": "RGB Themes - Vasari RED",
+            "author": "Razor",
+            "description": "Changes the Entire Interface to Vasari.",
+            "url": "https://discord.com/channels/266693357093257216/1157431801472630855",
+            "versions": {
+                "1.0.0": {
+                    "download": "https://uc99c85564f0b5d4ca9a5254d717.dl.dropboxusercontent.com/cd/0/get/CEqYwvLR0CVGlEzrok-EPf3OoFPfqcn1cdPgO_DlX4w482Q_v-8Kkoq7Qr8u0ghWiVW01wPeQvpseK34Mjix6AapcHk3oEKgzi4PHvxYgVuUKXrf6SlQP4yTILFy_dKecpu1q21315wLMjU7SxMZ18hSk5tP-yBzQX6e1Al0unuUTw/file?_download_id=67726760178972721888692635668523472867595128746433015004417309448&_notify_domain=www.dropbox.com&dl=1",
+                    "sinsVersion": "1.16.10.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/29/2023"
+                }
+            },
+            "latest": "1.0.0"
         }
     ]
 }
