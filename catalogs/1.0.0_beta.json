@@ -1,6 +1,6 @@
 {
     "latestSins": "1.16.10",
-    "latestGreed": "2.0.0",
+    "latestGreed": "2.0.1",
     "mods": [
         {
             "id": "constituent-components",
@@ -240,7 +240,7 @@
                 "1.0.0": {
                     "download": "https://www.dropbox.com/scl/fi/lxxzehzu37brix442trp9/RGB-Themes-Vasari-Red.zip?rlkey=sckjwr2hjt3zwfa9bir36w3s8&dl=1",
                     "sinsVersion": "1.16.10.0",
-                    "greedVersion": "2.0.0",
+                    "greedVersion": "2.0.1",
                     "dependencies": [],
                     "conflicts": [],
                     "date": "09/29/2023"

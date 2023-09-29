@@ -34,9 +34,10 @@ All you need to do is merely open a pull request for the repo to change `catalog
 | `name`* | `string` | The human-readable name of the mod. |
 | `author`* | `string` | Your name/username. |
 | `description`* | `string` | A brief summary of your mod. Save details for the readme. |
-| `url`* | `url` | The URL to your thread or repo where you give greater details about your mod. Details beyond what is covered in the description should be covered here. |
+| `url`* | `url` | The URL to your thread or repo where you give greater details about your mod. Details beyond what is covered in the description should be covered here.<br>- **Dropbox**: If you are using Dropbox, make sure your link ends in `dl1`, not `dl0`. |
 | `versions`* | `dictionary<version,versionDetails>` | A dictionary mapping versions of your mod to version detail objects. |
 | `latest`* | `version` | The most recent version of your mod that will be the default download for it. |
+
 
 ### Version Detail Object
 
