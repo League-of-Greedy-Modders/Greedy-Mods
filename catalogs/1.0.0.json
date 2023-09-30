@@ -255,6 +255,24 @@
                 }
             },
             "latest": "1.0.0"
+        },
+        {
+            "id": "RGB Themes - TEC Orange",
+            "name": "RGB Themes - TEC Orange",
+            "author": "Razor",
+            "description": "Changes the Entire Interface to TEC.",
+            "url": "https://discord.com/channels/266693357093257216/1157713667614326836",
+            "versions": {
+                "1.0.0": {
+                    "download": "https://www.dropbox.com/scl/fi/eicn23eqrvet3e7n7h83j/RGB-Themes-TEC-Orange.zip?rlkey=0jqew7yl0igkfdg7ezczuwqj7&dl=1",
+                    "sinsVersion": "1.16.10.0",
+                    "greedVersion": "2.0.1",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/29/2023"
+                }
+            },
+            "latest": "1.0.0"
         }
     ]
 }
