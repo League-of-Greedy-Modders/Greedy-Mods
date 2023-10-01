@@ -43,7 +43,7 @@ All you need to do is merely open a pull request for the repo to change `catalog
 
 | Field | Type | Description |
 |:------|:-----|:------------|
-| `download` | `url` | A link to a publicly-available `.zip` file somewhere on the internet. (I recommend a GitHub release.) If you want users to download manually, rather than through the auto-downloader, provide the instructions to download it in your `url` link above and leave this field undefined. |
+| `download` | `url` | A link to a publicly-available `.zip` or `.rar` file somewhere on the internet. (I recommend a GitHub release.) If you want users to download manually, rather than through the auto-downloader, provide the instructions to download it in your `url` link above and leave this field undefined. |
 | `sinsVersion`* | `version` | The minimum compatible Sins version. |
 | `greedVersion`* | `version` | The minimum compatible Greed version. |
 | `dependencies`* | `dependency[]` | An array of dependencies. |
