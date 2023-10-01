@@ -265,6 +265,24 @@
                 }
             },
             "latest": "1.0.0"
+        },
+        {
+            "id": "RGB Themes - Pirates! Green",
+            "name": "RGB Themes - Pirates! Green",
+            "author": "Razor",
+            "description": "Changes the Entire Interface to Pirates.",
+            "url": "https://discord.com/channels/266693357093257216/1157802765012181063",
+            "versions": {
+                "1.0.0": {
+                    "download": "https://www.dropbox.com/scl/fi/0rdhvxfr2q9bb1qo5iat6/RGB-Themes-Pirates-Green.zip?rlkey=f51ut1igowod2l4g5r637ovni&dl=1",
+                    "sinsVersion": "1.16.10.0",
+                    "greedVersion": "2.0.1",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/30/2023"
+                }
+            },
+            "latest": "1.0.0"
         }
     ]
 }
