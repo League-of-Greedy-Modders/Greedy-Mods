@@ -299,6 +299,24 @@
                 }
             },
             "latest": "1.0.0"
+        },
+        {
+            "id": "capital-starts",
+            "name": "Vasari Capital Starts",
+            "author": "Volt Cruelerz",
+            "description": "Adds the other capitals as starting options through additional factions.",
+            "url": "https://github.com/VoltCruelerz/capital-starts",
+            "versions": {
+                "1.0.0": {
+                    "download": "https://github.com/VoltCruelerz/capital-starts/archive/refs/tags/1.0.0.zip",
+                    "sinsVersion": "1.16.10.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "10/02/2023"
+                }
+            },
+            "latest": "1.0.0"
         }
     ]
 }
