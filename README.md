@@ -2,15 +2,18 @@
 
 The existing list of [greedy](https://github.com/VoltCruelerz/Greed) mods available for download.
 
-## Contributing
+Greed queries the catalogs in this repository, which provides it with the paths required for installation.
 
+## Contributing
 
 ### Joining the League
 
 So you want to join the League, eh? Here's the process:
 
 1. Create a Greedy mod.
-2. Publish it online somewhere. It must be accessible to the open internet with a static URL, such as a GitHub release or a Dropbox link, and it must be a `.zip` or `.rar`.
+2. Publish it online somewhere. Two rules:
+    1. It must be accessible to the open internet with a static URL, such as a GitHub release or a Dropbox link. Discord doesn't work.
+    2. It must be a `.zip` or `.rar`.
 3. Petition a Maintainer or higher in the _League of Greedy Modders_ for access.
     1. You will need a GitHub account to join.
     2. The Maintainer will validate that you have in fact made a Greedy mod and will consider if you would be a good fit.
