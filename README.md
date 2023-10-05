@@ -4,9 +4,34 @@ The existing list of [greedy](https://github.com/VoltCruelerz/Greed) mods availa
 
 ## Contributing
 
-### Local Testing
 
-For your own local testing, you can manually override the channel in Greed's `App.config` with a url leading to your own channel. It should look something like...
+### Joining the League
+
+So you want to join the League, eh? Here's the process:
+
+1. Create a Greedy mod.
+2. Publish it online somewhere. It must be accessible to the open internet with a static URL, such as a GitHub release or a Dropbox link, and it must be a `.zip` or `.rar`.
+3. Petition a Maintainer or higher in the _League of Greedy Modders_ for access.
+    1. You will need a GitHub account to join.
+    2. The Maintainer will validate that you have in fact made a Greedy mod and will consider if you would be a good fit.
+    3. If they decide you are, you will be invited to the League of Greedy Modders organization on GitHub via email.
+    4. After accepting, the Maintainer will elevate your permissions on `Greedy-Mods` to `Write`, allowing you to contribute.
+    5. If you have further questions with the process, they will be happy to assist you.
+
+### Merge Process
+
+1. **Clone** the `Greedy-Mods` repository onto your own computer.
+2. Create a new branch locally.
+3. Make your changes on your local branch.
+4. **Commit** and **Push** your changes to the **Remote** branch (GitHub)
+5. Validate the installation using your branch as a [test channel in Greed](#local-test-channel).
+6. On GitHub, create a **Pull Request** (aka PR, Merge Request, or MR) between your branch and `main`.
+7. Find another member of the League to review your code.
+8. Once they have approved your MR, you can **Merge** your changes.
+
+### Local Test Channel
+
+For your own local testing, you can manually override the channel in Greed's `App.config` with a url leading to your own test channel. It should look something like...
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
@@ -20,13 +45,12 @@ For your own local testing, you can manually override the channel in Greed's `Ap
 </configuration>
 ```
 
-### Merging Your Changes
 
-All you need to do is merely open a pull request for the repo to change `catalogs/<schemaVersion>_beta.json` and/or `catalogs/<schemaVersion>.json`. If everything looks good, your changes will be pushed to the live channel.
+## Catalog Schema
 
-## Schema
+The Catalog is an array of Entries
 
-### Catalog Object
+### Entry Object
 
 | Field | Type | Description |
 |:------|:-----|:------------|
