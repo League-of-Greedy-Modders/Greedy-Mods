@@ -1,6 +1,6 @@
 # Greedy Mods
 
-The existing list of [greedy](https://github.com/VoltCruelerz/Greed) mods available for download.
+The existing list of [Greedy](https://github.com/VoltCruelerz/Greed) mods available for download.
 
 Greed queries the catalogs in this repository, which provides it with the paths required for installation.
 
