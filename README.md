@@ -48,7 +48,6 @@ For your own local testing, you can manually override the channel in Greed's `Ap
 </configuration>
 ```
 
-
 ## Catalog Schema
 
 The Catalog is an array of Entries
