@@ -333,7 +333,7 @@
             "description": "Adds a brand new, nomadic-style Vasari faction.",
             "url": "https://github.com/martijnlv40/Vasari-purists",
             "versions": {
-				"1.2.0": {
+                "1.2.0": {
                     "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.2.0.zip",
                     "sinsVersion": "1.16.10.0",
                     "greedVersion": "2.0.0",
