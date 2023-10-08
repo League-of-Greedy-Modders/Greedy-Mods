@@ -9,6 +9,14 @@
             "description": "Improves the roster of ship components.",
             "url": "https://github.com/VoltCruelerz/constituent-components",
             "versions": {
+                "2.2.0": {
+                    "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/2.2.0.zip",
+                    "sinsVersion": "1.16.10.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "10/08/2023"
+                },
                 "2.1.0": {
                     "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/2.1.0.zip",
                     "sinsVersion": "1.16.10.0",
@@ -34,7 +42,7 @@
                     "date": "09/04/2023"
                 }
             },
-            "latest": "2.1.0"
+            "latest": "2.2.0"
         },
         {
             "id": "Gauss Research",
@@ -123,6 +131,14 @@
             "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
             "url": "https://github.com/VoltCruelerz/pd-strings",
             "versions": {
+                "2.1.0": {
+                    "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.1.0.zip",
+                    "sinsVersion": "1.16.7.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "09/22/2023"
+                },
                 "2.0.0": {
                     "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.0.0.zip",
                     "sinsVersion": "1.16.7.0",
@@ -138,6 +154,24 @@
                     "dependencies": [],
                     "conflicts": [],
                     "date": "09/04/2023"
+                }
+            },
+            "latest": "2.1.0"
+        },
+        {
+            "id": "tooltips++",
+            "name": "Tooltips++",
+            "author": "Volt Cruelerz",
+            "description": "Improves in-game tooltips",
+            "url": "https://github.com/VoltCruelerz/tooltips--",
+            "versions": {
+                "2.0.0": {
+                    "download": "https://github.com/VoltCruelerz/tooltips--/archive/refs/tags/2.0.0.zip",
+                    "sinsVersion": "1.16.7.0",
+                    "greedVersion": "2.0.0",
+                    "dependencies": [],
+                    "conflicts": [],
+                    "date": "10/08/2023"
                 }
             },
             "latest": "2.0.0"
