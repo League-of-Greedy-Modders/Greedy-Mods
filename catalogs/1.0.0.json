@@ -439,6 +439,25 @@
         "description": "Removes trap research like Advanced Fire Control.",
         "url": "https://github.com/VoltCruelerz/remove-trap-research",
         "isTotalConversion": false
+      },
+      {
+        "id": "pulse-pd",
+        "versions": {
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/pulse-pd/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-14 19:20"
+          }
+        },
+        "latest": "2.0.0",
+        "name": "PD Pulse Beam",
+        "author": "Volt Cruelerz",
+        "description": "Adds Pulse Beams as a PD weapon.",
+        "url": "https://github.com/VoltCruelerz/pulse-pd",
+        "isTotalConversion": false
       }
     ]
   }
