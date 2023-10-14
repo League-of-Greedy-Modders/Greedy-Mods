@@ -11,7 +11,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/08/2023"
+            "date": "2023-10-08 00:00"
           },
           "2.1.0": {
             "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/2.1.0.zip",
@@ -19,7 +19,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/30/2023"
+            "date": "2023-09-30 00:00"
           },
           "1.4.0": {
             "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.4.0.zip",
@@ -27,7 +27,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/18/2023"
+            "date": "2023-09-18 00:00"
           },
           "1.3.0": {
             "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.3.0.zip",
@@ -35,7 +35,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "2.2.0",
@@ -54,7 +54,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/22/2023"
+            "date": "2023-09-22 00:00"
           },
           "1.1.1": {
             "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip",
@@ -62,7 +62,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "1.2.0",
@@ -81,7 +81,7 @@
             "greedVersion": "1.8.1",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/17/2023"
+            "date": "2023-09-17 00:00"
           }
         },
         "latest": "1.0.0",
@@ -100,7 +100,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "1.2.1",
@@ -119,7 +119,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "1.4.1",
@@ -138,7 +138,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/22/2023"
+            "date": "2023-09-22 00:00"
           },
           "2.0.0": {
             "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.0.0.zip",
@@ -146,7 +146,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/22/2023"
+            "date": "2023-09-22 00:00"
           },
           "1.4.1": {
             "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip",
@@ -154,7 +154,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "2.1.0",
@@ -173,7 +173,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/08/2023"
+            "date": "2023-10-08 00:00"
           },
           "2.1.0": {
             "download": "https://github.com/VoltCruelerz/tooltips--/archive/refs/tags/2.1.0.zip",
@@ -181,7 +181,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/14/2023 6:26:35 PM"
+            "date": "2023-10-14 18:36"
           }
         },
         "latest": "2.1.0",
@@ -200,7 +200,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           },
           "1.1.1": {
             "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
@@ -208,7 +208,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "2.0.0",
@@ -227,7 +227,7 @@
             "greedVersion": "1.6.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04"
           }
         },
         "latest": "1.1.0",
@@ -246,7 +246,7 @@
             "greedVersion": "1.5.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "1.2.0",
@@ -265,7 +265,7 @@
             "greedVersion": "1.5.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/04/2023"
+            "date": "2023-09-04 00:00"
           }
         },
         "latest": "1.2.0",
@@ -284,7 +284,7 @@
             "greedVersion": "1.7.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/13/2023"
+            "date": "2023-09-13 00:00"
           },
           "1.0.0": {
             "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.0.0.zip",
@@ -292,7 +292,7 @@
             "greedVersion": "1.7.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/10/2023"
+            "date": "2023-09-10 00:00"
           }
         },
         "latest": "1.1.0",
@@ -311,7 +311,7 @@
             "greedVersion": "2.0.1",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/29/2023"
+            "date": "2023-09-29 00:00"
           }
         },
         "latest": "1.0.0",
@@ -330,7 +330,7 @@
             "greedVersion": "2.0.1",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/30/2023"
+            "date": "2023-09-30 00:00"
           }
         },
         "latest": "1.0.0",
@@ -349,7 +349,7 @@
             "greedVersion": "2.0.1",
             "dependencies": [],
             "conflicts": [],
-            "date": "09/30/2023"
+            "date": "2023-09-30 00:00"
           }
         },
         "latest": "1.0.0",
@@ -368,7 +368,7 @@
             "greedVersion": "2.2.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/03/2023"
+            "date": "2023-10-03 00:00"
           },
           "1.0.0": {
             "download": "https://github.com/VoltCruelerz/capital-starts/archive/refs/tags/1.0.0.zip",
@@ -376,7 +376,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/02/2023"
+            "date": "2023-10-02 00:00"
           }
         },
         "latest": "2.0.0",
@@ -395,7 +395,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/12/2023"
+            "date": "2023-10-12 00:00"
           },
           "1.2.0": {
             "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.2.0.zip",
@@ -403,7 +403,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/07/2023"
+            "date": "2023-10-07 00:00"
           },
           "1.1.0": {
             "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.1.0.zip",
@@ -411,7 +411,7 @@
             "greedVersion": "2.0.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/06/2023"
+            "date": "2023-10-06 00:00"
           }
         },
         "latest": "1.3.0",
@@ -430,7 +430,7 @@
             "greedVersion": "2.4.0",
             "dependencies": [],
             "conflicts": [],
-            "date": "10/14/2023"
+            "date": "2023-10-14 00:00"
           }
         },
         "latest": "1.0.0",
