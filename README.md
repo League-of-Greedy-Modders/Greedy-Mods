@@ -32,7 +32,7 @@ So you want to join the League, eh? Here's the process:
     1. Open Greed
     2. Disable all mods except your new/updated mod, which must be active.
     3. Go to the Developer tab and press the **Generate Catalog JSON** button.
-    4. Paste the resulting JSON into your local copy of `Greedy-Mods/catalogs/1.0.0.json`.
+    4. Paste the resulting JSON into your local copy of `Greedy-Mods/catalogs/<schema version>.json`.
 4. **Commit** and **Push** your changes to the **Remote** branch (GitHub)
 5. Validate the installation using your branch as a [test channel in Greed](#local-test-channel).
 6. On GitHub, create a **Pull Request** (aka PR, Merge Request, or MR) between your branch and `main`.
@@ -44,7 +44,7 @@ So you want to join the League, eh? Here's the process:
 For your own local testing or when validating another _LGM_ member's merge request, you can set a custom Catalog Channel.
 
 1. Open Greed to the Developer Tab
-2. Paste the path of your remote branch's `catalogs/1.0.0.json` into the Catalog Channel text field
+2. Paste the path of your remote branch's `catalogs/<schema version>.json` into the Catalog Channel text field
 3. Navigate to the Greedy Mods tab and hit the refresh button.
 4. Click the online catalog button, and you should see the mods in your custom version.
 
