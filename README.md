@@ -12,7 +12,8 @@ So you want to join the League, eh? Here's the process:
 
 1. Create a Greedy mod.
 2. Publish it online somewhere. Two rules:
-    1. It must be accessible to the open internet with a static URL, such as a GitHub release or a Dropbox link. Discord doesn't work.
+    1. It must be accessible to the open internet with a static URL, such as a GitHub release or a Dropbox link.
+        1. Discord and UploadNow URLs are _**not**_ static.
     2. It must be a `.zip` or `.rar`.
 3. Petition a Maintainer or higher in the _League of Greedy Modders_ for access.
     1. You will need a GitHub account to join.
@@ -23,9 +24,15 @@ So you want to join the League, eh? Here's the process:
 
 ### Merge Process
 
+![Developer Menu](assets/Developer%20Menu.png)
+
 1. **Clone** the `Greedy-Mods` repository onto your own computer.
-2. Create a new branch locally.
+2. Create a new git branch locally.
 3. Make your changes on your local branch.
+    1. Open Greed
+    2. Disable all mods except your new/updated mod, which must be active.
+    3. Go to the Developer tab and press the **Generate Catalog JSON** button.
+    4. Paste the resulting JSON into your local copy of `Greedy-Mods/catalogs/1.0.0.json`.
 4. **Commit** and **Push** your changes to the **Remote** branch (GitHub)
 5. Validate the installation using your branch as a [test channel in Greed](#local-test-channel).
 6. On GitHub, create a **Pull Request** (aka PR, Merge Request, or MR) between your branch and `main`.
@@ -34,19 +41,12 @@ So you want to join the League, eh? Here's the process:
 
 ### Local Test Channel
 
-For your own local testing, you can manually override the channel in Greed's `App.config` with a url leading to your own test channel. It should look something like...
+For your own local testing or when validating another _LGM_ member's merge request, you can set a custom Catalog Channel.
 
-```xml
-<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-  <appSettings>
-    <add key="modDir" value=""/>
-    <add key="sinsDir" value=""/>
-    <add key="downDir" value=""/>
-    <add key="channel" value="https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/catalogs/1.0.0_alpha.json"/>
-  </appSettings>
-</configuration>
-```
+1. Open Greed to the Developer Tab
+2. Paste the path of your remote branch's `catalogs/1.0.0.json` into the Catalog Channel text field
+3. Navigate to the Greedy Mods tab and hit the refresh button.
+4. Click the online catalog button, and you should see the mods in your custom version.
 
 ## Catalog Schema
 

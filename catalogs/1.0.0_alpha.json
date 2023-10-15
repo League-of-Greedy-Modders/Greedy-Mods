@@ -1,139 +1,463 @@
 {
+    "latestGreed": "2.5.0",
     "latestSins": "1.16.10",
-    "latestGreed": "2.3.0",
     "mods": [
-        {
-            "id": "planet-loyalty",
-            "name": "Planet Loyalty",
-            "author": "Visual39 & Volt Cruelerz",
-            "description": "Planets now have a Loyalty bar instead of a Health bar.",
-            "url": "https://github.com/VoltCruelerz/planet-loyalty",
-            "versions": {
-                "1.1.1": {
-                    "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.6.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                }
-            },
-            "latest": "1.1.1"
+      {
+        "id": "constituent-components",
+        "versions": {
+          "2.2.0": {
+            "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/2.2.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-08 00:00"
+          },
+          "2.1.0": {
+            "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/2.1.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-30 00:00"
+          },
+          "1.4.0": {
+            "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.4.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-18 00:00"
+          },
+          "1.3.0": {
+            "download": "https://github.com/VoltCruelerz/constituent-components/archive/refs/tags/1.3.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
         },
-        {
-            "id": "endless_upgrade",
-            "name": "Endless Upgrade Test",
-            "author": "TEST",
-            "description": "Install is lower version than catalog",
-            "url": "https://github.com/VoltCruelerz",
-            "versions": {
-                "1.0.1": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                },
-                "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                },
-                "0.9.9": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/endless_upgrade.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                }
-            },
-            "latest": "1.0.1"
+        "latest": "2.2.0",
+        "name": "Constituent Components",
+        "author": "Volt Cruelerz",
+        "description": "Improves the roster of ship components.",
+        "url": "https://github.com/VoltCruelerz/constituent-components",
+        "isTotalConversion": false
+      },
+      {
+        "id": "Gauss Research",
+        "versions": {
+          "1.2.0": {
+            "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.2.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-22 00:00"
+          },
+          "1.1.1": {
+            "download": "https://github.com/VoltCruelerz/Gauss-Mod-1.1/archive/refs/tags/1.1.1.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
         },
-        {
-            "id": "a_dependency",
-            "name": "A Dependency",
-            "author": "TEST",
-            "description": "Parent of the chain",
-            "url": "https://github.com/VoltCruelerz",
-            "versions": {
-                "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/a_dependency.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                }
-            },
-            "latest": "1.0.0"
+        "latest": "1.2.0",
+        "name": "Gauss Research",
+        "author": "Volt Cruelerz",
+        "description": "Expands the effects of Gauss research to everything using Gauss weapons.",
+        "url": "https://github.com/VoltCruelerz/Gauss-Mod-1.1",
+        "isTotalConversion": false
+      },
+      {
+        "id": "better-ai",
+        "versions": {
+          "1.0.0": {
+            "download": "https://github.com/VoltCruelerz/better-ai/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.8.1",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-17 00:00"
+          }
         },
-        {
-            "id": "b_dependent",
-            "name": "B Dependent",
-            "author": "TEST",
-            "description": "Child of the chain",
-            "url": "https://github.com/VoltCruelerz",
-            "versions": {
-                "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/b_dependent.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [
-                        {
-                            "id": "a_dependency",
-                            "version": "1.0.0"
-                        }
-                    ],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                }
-            },
-            "latest": "1.0.0"
+        "latest": "1.0.0",
+        "name": "Better AI",
+        "author": "Volt Cruelerz",
+        "description": "Improves the AI targeting heuristics. Do not use this mod with balance mods. Targeting heuristic optimizations are _extremely_ build-specific.",
+        "url": "https://github.com/VoltCruelerz/constituent-components",
+        "isTotalConversion": false
+      },
+      {
+        "id": "kol-options",
+        "versions": {
+          "1.2.1": {
+            "download": "https://github.com/VoltCruelerz/kol-options/archive/refs/tags/1.2.1.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
         },
-        {
-            "id": "c_grandependent",
-            "name": "C Grandependent",
-            "author": "TEST",
-            "description": "Grandchild of the chain",
-            "url": "https://github.com/VoltCruelerz",
-            "versions": {
-                "1.0.0": {
-                    "download": "https://raw.githubusercontent.com/League-of-Greedy-Modders/Greedy-Mods/main/beta/c_grandependent.zip",
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [
-                        {
-                            "id": "b_dependent",
-                            "version": "1.0.0"
-                        }
-                    ],
-                    "conflicts": [],
-                    "date": "09/04/2023"
-                }
-            },
-            "latest": "1.0.0"
+        "latest": "1.2.1",
+        "name": "Kol Options",
+        "author": "Volt Cruelerz",
+        "description": "Fusillade and Adaptive Force Field are no longer terrible.",
+        "url": "https://github.com/VoltCruelerz/kol-options",
+        "isTotalConversion": false
+      },
+      {
+        "id": "krosov-prova-guns",
+        "versions": {
+          "1.4.1": {
+            "download": "https://github.com/VoltCruelerz/krosov-prova-guns/archive/refs/tags/1.4.1.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
         },
-        {
-            "id": "Gauss Weapon Rework",
-            "name": "Gauss Weapon Rework",
-            "author": "Shrimple",
-            "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
-            "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
-            "versions": {
-                "1.0.0": {
-                    "sinsVersion": "1.15.1.0",
-                    "greedVersion": "1.7.0",
-                    "dependencies": [],
-                    "conflicts": [],
-                    "date": "09/03/2023"
-                }
-            },
-            "latest": "1.0.0"
-        }
+        "latest": "1.4.1",
+        "name": "Krosov Nukes & Prova PD",
+        "author": "Volt Cruelerz",
+        "description": "Adds S2S missiles to Krosov and a PD gun to Prova.",
+        "url": "https://github.com/VoltCruelerz/krosov-prova-guns",
+        "isTotalConversion": false
+      },
+      {
+        "id": "pd-strings",
+        "versions": {
+          "2.1.0": {
+            "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.1.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-22 00:00"
+          },
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/2.0.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-22 00:00"
+          },
+          "1.4.1": {
+            "download": "https://github.com/VoltCruelerz/pd-strings/archive/refs/tags/1.4.1.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
+        },
+        "latest": "2.1.0",
+        "name": "Point Defense Strings",
+        "author": "Volt Cruelerz",
+        "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
+        "url": "https://github.com/VoltCruelerz/pd-strings",
+        "isTotalConversion": false
+      },
+      {
+        "id": "tooltips++",
+        "versions": {
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/tooltips--/archive/refs/tags/2.0.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-08 00:00"
+          },
+          "2.1.0": {
+            "download": "https://github.com/VoltCruelerz/tooltips--/archive/refs/tags/2.1.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-14 18:36"
+          }
+        },
+        "latest": "2.1.0",
+        "name": "Tooltips++",
+        "author": "Volt Cruelerz",
+        "description": "Improves in-game tooltips",
+        "url": "https://github.com/VoltCruelerz/tooltips--",
+        "isTotalConversion": false
+      },
+      {
+        "id": "planet-loyalty",
+        "versions": {
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/2.0.0.zip",
+            "sinsVersion": "1.16.7.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          },
+          "1.1.1": {
+            "download": "https://github.com/VoltCruelerz/planet-loyalty/archive/refs/tags/1.1.1.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
+        },
+        "latest": "2.0.0",
+        "name": "Planet Loyalty",
+        "author": "Visual39 & Volt Cruelerz",
+        "description": "Planets now have a Loyalty bar instead of a Health bar.",
+        "url": "https://github.com/VoltCruelerz/planet-loyalty",
+        "isTotalConversion": false
+      },
+      {
+        "id": "useful-units",
+        "versions": {
+          "1.1.0": {
+            "download": "https://github.com/VoltCruelerz/useful-units/archive/refs/tags/1.1.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.6.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
+        },
+        "latest": "1.1.0",
+        "name": "Useful Units",
+        "author": "Volt Cruelerz",
+        "description": "Improves the roster of ships.",
+        "url": "https://github.com/VoltCruelerz/useful-units",
+        "isTotalConversion": false
+      },
+      {
+        "id": "Autocannon Weapon Rework",
+        "versions": {
+          "1.2.0": {
+            "download": "",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.5.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
+        },
+        "latest": "1.2.0",
+        "name": "Autocannon Weapon Rework",
+        "author": "Shrimple",
+        "description": "This is a graphical mod that updates the particle effects for Light Autocannons, Medium Autocannons, and PD Autocannons to be more visible at any distance, a lot brighter, and unique in size.",
+        "url": "https://discord.com/channels/266693357093257216/1148111727569936476",
+        "isTotalConversion": false
+      },
+      {
+        "id": "Gauss Weapon Rework",
+        "versions": {
+          "1.2.0": {
+            "download": "",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.5.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-04 00:00"
+          }
+        },
+        "latest": "1.2.0",
+        "name": "Gauss Weapon Rework",
+        "author": "Shrimple",
+        "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
+        "url": "https://discord.com/channels/266693357093257216/1148026045124059247",
+        "isTotalConversion": false
+      },
+      {
+        "id": "on-death-explosions",
+        "versions": {
+          "1.1.0": {
+            "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.1.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.7.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-13 00:00"
+          },
+          "1.0.0": {
+            "download": "https://github.com/VoltCruelerz/on-death-explosions/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.15.1.0",
+            "greedVersion": "1.7.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-10 00:00"
+          }
+        },
+        "latest": "1.1.0",
+        "name": "On-Death Explosions",
+        "author": "Volt Cruelerz",
+        "description": "This mod reworks the Gauss weapon type for the TEC Loyalists and TEC Rebels.",
+        "url": "https://github.com/VoltCruelerz/on-death-explosions",
+        "isTotalConversion": false
+      },
+      {
+        "id": "RGB Themes - Vasari RED",
+        "versions": {
+          "1.0.0": {
+            "download": "https://www.dropbox.com/scl/fi/lxxzehzu37brix442trp9/RGB-Themes-Vasari-Red.zip?rlkey=sckjwr2hjt3zwfa9bir36w3s8&dl=1",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.1",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-29 00:00"
+          }
+        },
+        "latest": "1.0.0",
+        "name": "RGB Themes - Vasari RED",
+        "author": "Razor",
+        "description": "Changes the Entire Interface to Vasari.",
+        "url": "https://discord.com/channels/266693357093257216/1157431801472630855",
+        "isTotalConversion": false
+      },
+      {
+        "id": "RGB Themes - TEC Orange",
+        "versions": {
+          "1.0.0": {
+            "download": "https://www.dropbox.com/scl/fi/eicn23eqrvet3e7n7h83j/RGB-Themes-TEC-Orange.zip?rlkey=0jqew7yl0igkfdg7ezczuwqj7&dl=1",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.1",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-30 00:00"
+          }
+        },
+        "latest": "1.0.0",
+        "name": "RGB Themes - TEC Orange",
+        "author": "Razor",
+        "description": "Changes the Entire Interface to TEC.",
+        "url": "https://discord.com/channels/266693357093257216/1157713667614326836",
+        "isTotalConversion": false
+      },
+      {
+        "id": "RGB Themes - Pirates! Green",
+        "versions": {
+          "1.0.0": {
+            "download": "https://www.dropbox.com/scl/fi/0rdhvxfr2q9bb1qo5iat6/RGB-Themes-Pirates-Green.zip?rlkey=f51ut1igowod2l4g5r637ovni&dl=1",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.1",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-09-30 00:00"
+          }
+        },
+        "latest": "1.0.0",
+        "name": "RGB Themes - Pirates! Green",
+        "author": "Razor",
+        "description": "Changes the Entire Interface to Pirates.",
+        "url": "https://discord.com/channels/266693357093257216/1157802765012181063",
+        "isTotalConversion": false
+      },
+      {
+        "id": "capital-starts",
+        "versions": {
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/capital-starts/archive/refs/tags/2.0.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.2.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-03 00:00"
+          },
+          "1.0.0": {
+            "download": "https://github.com/VoltCruelerz/capital-starts/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-02 00:00"
+          }
+        },
+        "latest": "2.0.0",
+        "name": "Vasari Capital Starts",
+        "author": "Volt Cruelerz",
+        "description": "Adds the other capitals as starting options through additional factions.",
+        "url": "https://github.com/VoltCruelerz/capital-starts",
+        "isTotalConversion": false
+      },
+      {
+        "id": "Vasari-purists",
+        "versions": {
+          "1.3.0": {
+            "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.3.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-12 00:00"
+          },
+          "1.2.0": {
+            "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.2.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-07 00:00"
+          },
+          "1.1.0": {
+            "download": "https://github.com/martijnlv40/Vasari-purists/archive/refs/tags/1.1.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-06 00:00"
+          }
+        },
+        "latest": "1.3.0",
+        "name": "Vasari Purists",
+        "author": "martijnlv40",
+        "description": "Adds a brand new, nomadic-style Vasari faction.",
+        "url": "https://github.com/martijnlv40/Vasari-purists",
+        "isTotalConversion": false
+      },
+      {
+        "id": "remove-trap-research",
+        "versions": {
+          "1.0.0": {
+            "download": "https://github.com/VoltCruelerz/remove-trap-research/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.4.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-14 00:00"
+          }
+        },
+        "latest": "1.0.0",
+        "name": "Remove Trap Research",
+        "author": "Volt Cruelerz",
+        "description": "Removes trap research like Advanced Fire Control.",
+        "url": "https://github.com/VoltCruelerz/remove-trap-research",
+        "isTotalConversion": false
+      },
+      {
+        "id": "pulse-pd",
+        "versions": {
+          "2.0.0": {
+            "download": "https://github.com/VoltCruelerz/pulse-pd/archive/refs/tags/1.0.0.zip",
+            "sinsVersion": "1.16.10.0",
+            "greedVersion": "2.0.0",
+            "dependencies": [],
+            "conflicts": [],
+            "date": "2023-10-14 19:20"
+          }
+        },
+        "latest": "2.0.0",
+        "name": "PD Pulse Beam",
+        "author": "Volt Cruelerz",
+        "description": "Adds Pulse Beams as a PD weapon.",
+        "url": "https://github.com/VoltCruelerz/pulse-pd",
+        "isTotalConversion": false
+      }
     ]
-}
+  }
