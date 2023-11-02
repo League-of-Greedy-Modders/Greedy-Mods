@@ -427,7 +427,7 @@
       "author": "martijnlv40",
       "description": "Adds a brand new, nomadic-style Vasari faction.",
       "url": "https://github.com/martijnlv40/Vasari-purists",
-      "isTotalConversion": false
+      "isTotalConversion": true
     },
     {
       "id": "remove-trap-research",
@@ -485,6 +485,25 @@
       "description": "Adds more extended upgrades to the research tree",
       "url": "https://discord.com/channels/266693357093257216/1158924234748334171",
       "isTotalConversion": false
+    },
+	{
+      "id": "Deathmatch",
+      "versions": {
+        "1.0.0": {
+          "download": "https://github.com/martijnlv40/Deathmatch/archive/refs/tags/1.0.0.zip",
+          "sinsVersion": "1.17.9.0",
+          "greedVersion": "2.0.0",
+          "dependencies": [],
+          "conflicts": [],
+          "date": "2023-11-01 13:56"
+        }
+      },
+      "latest": "1.0.0",
+      "name": "Deathmatch",
+      "author": "martijnlv40",
+      "description": "Adds a deathmatch 'mode'",
+      "url": "https://github.com/martijnlv40/Deathmatch",
+      "isTotalConversion": true
     }
   ]
 }
